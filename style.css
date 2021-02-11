@@ -1,10 +1,7 @@
-center {
-    text-align: center;
-}
-
 body {
     background-color: black;
     color: white;
+    text-align: center;
 }
 
 h1 {
