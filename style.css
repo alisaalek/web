@@ -22,4 +22,7 @@ div {
   border-image-source: url(https://i.pinimg.com/originals/ca/ea/9b/caea9b686cef45bc33e1bffd8d2eb8a8.png);  
   border-image-slice: 30;
 }
+
+p.rtl {
+  direction: rtl;
 }
