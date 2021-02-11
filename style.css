@@ -18,5 +18,8 @@ a {
 }
 
 div {
-  border: 0.5rem outset pink;
+  border: 10px solid transparent;
+  border-image-source: url(https://spotlightreport.net/wp-content/uploads/2015/09/noragami-anime-review.jpg);  
+  border-image-slice: 30;
+}
 }
