@@ -23,3 +23,7 @@ div {
   border-image-slice: 30;
 }
 
+nav {
+    display: flex;
+}
+    
