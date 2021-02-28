@@ -20,13 +20,21 @@ a {
 div {
 }
 
-nav {
-   box {
-  width: 350px;
-  height: 150px;
-  margin: 10px;
-  padding: 25px;
-  border: 5px solid white;
-    }
+ul {
+    background-color: #c2f0ff;
+}
+
+li {
+    float: left;
 }
    
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+li a:hover {
+  background-color: #99d2e5;
+}
