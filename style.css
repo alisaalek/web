@@ -21,7 +21,11 @@ div {
 }
 
 ul {
-    background-color: #c2f0ff;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c2f0ff;
 }
 
 li {
