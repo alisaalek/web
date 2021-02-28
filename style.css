@@ -32,6 +32,10 @@ ul {
 li {
     float: left;
 }
+
+nav {
+    align: center;
+}
    
 li a {
   display: inline-block;
