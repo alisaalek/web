@@ -29,10 +29,11 @@ li {
 }
    
 li a {
-  display: block;
+  display: inline-block;
   color: black;
   text-align: center;
   padding: 14px 16px;
+  position: relative;
 }
 
 li a:hover {
