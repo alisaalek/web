@@ -1,24 +1,28 @@
 body {
     background-color: white;
     color: black;
-    text-align: center;
+    font-family: Verdana
 }
 
 h1 {
     background-color: #8280ff;
     color: black;
+    margin-top: 0;
 }
 
-p {
-    font: Times New Roman;
+.div1 {
+   background-color: #8280ff;
+   border: 15px solid #8280ff;
 }
 
-a {
-    color: #8280ff;
-}
+.center {
+   text-align: center;
+   }
 
-div {
-    float: center;
+.wrapingimage {
+float: left;
+text-align: justify;
+padding: 0px 25px 0px 0px;
 }
 
 ul {
@@ -27,21 +31,18 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #8280ff;
-  text-align: center;
 }
 
 li {
-    float: left;
+    display: inline-block;
 }
 
 nav {
-    align: center;
+ text-align: center;
 }
-   
+
 li a {
-  display: inline-block;
   color: black;
-  text-align: center;
   padding: 14px 16px;
   position: relative;
 }
@@ -49,3 +50,7 @@ li a {
 li a:hover {
   background-color: #99d2e5;
 }
+
+h1 {
+ text-align: center
+ }
